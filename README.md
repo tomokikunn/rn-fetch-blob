@@ -3,7 +3,7 @@
 
 A project committed to making file access and data transfer easier and more efficient for React Native developers.
 
-# ⚠️ Unmaintained ⚠️ 
+# ⚠️ Unmaintained - Fixed Require Cycle Bug⚠️ 
 
 # Version Compatibility Warning
 
