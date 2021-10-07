@@ -1,4 +1,4 @@
-import RNFetchBlob from '../index.js'
+//import RNFetchBlob from '../index.js'
 import Log from '../utils/log.js'
 import fs from '../fs'
 import unicode from '../utils/unicode'
